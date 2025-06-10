@@ -42,8 +42,8 @@ imdb-Reviews-Sentiment-Analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rahulprajapati08/imdb-sentiment-app.git
-   cd imdb-sentiment-app
+   git clone https://github.com/rahulprajapati08/imdb-Reviews-Sentiment-Analysis.git
+   cd imdb-Reviews-Sentiment-Analysis
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -61,6 +61,6 @@ I'm Rahul Prajapati, a B.Tech Computer Science student passionate about AI, NLP,
 
 ## 💬 Note for Recruiters
   This project demonstrates:
-  -My ability to develop and deploy deep learning models in real applications
-  -An understanding of NLP pipelines, RNN architecture, and user-focused design
-  -End-to-end ownership from data preprocessing to deployment
+  - My ability to develop and deploy deep learning models in real applications
+  - An understanding of NLP pipelines, RNN architecture, and user-focused design
+  - End-to-end ownership from data preprocessing to deployment
